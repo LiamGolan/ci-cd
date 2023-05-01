@@ -1,0 +1,1 @@
+docker build . -t flaskapp --build-arg USERNAME=LIAMI
